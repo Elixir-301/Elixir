@@ -1,4 +1,3 @@
 # Elixir
 #PNDAVE
 #JDANTONI
-#ISUKHANO
