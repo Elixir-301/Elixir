@@ -1,7 +1,7 @@
 public abstract class Shape {
     int x;
     int y;
-    String color = "yellow";
+    String color = "red";
 
     // Constructor
     public Shape(int x, int y, string colour) {
