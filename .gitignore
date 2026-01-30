@@ -1,1 +1,8 @@
 *.iml
+
+.DS_Store
+.idea/
+code/.idea/
+*.iml
+**/build/
+.gradle/
