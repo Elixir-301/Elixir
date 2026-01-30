@@ -1,3 +1,2 @@
 # Elixir
-#PNDAVE
 #JDANTONI
