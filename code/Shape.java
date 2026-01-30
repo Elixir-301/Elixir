@@ -1,7 +1,7 @@
 public abstract class Shape {
     int x;
     int y;
-    string colour =  "$PUT_YOUR_CHOICE_OF_COLOR";
+    String colour =  "blue";
 
     // Constructor
     public Shape(int x, int y, string colour) {
