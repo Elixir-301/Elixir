@@ -3,6 +3,7 @@ public abstract class Shape {
     int y;
     String color = "blue";
 
+
     // Constructor
     public Shape(int x, int y, string colour) {
         this.x = x;
